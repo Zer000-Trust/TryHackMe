@@ -1,4 +1,8 @@
 # Neighbour
+**Категория:** Web Security
+
+**Сложность:** Easy
+
 ![Room](screenshots/nb-0.jpg)
 ## Цель
 Ознакомится с уязвимостью типа **Insecure Direct Object Reference(IDOR)**.
