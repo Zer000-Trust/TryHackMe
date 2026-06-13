@@ -53,6 +53,15 @@
 * получение конфиденциальной информации;
 * горизонтальное и вертикальное повышение привилегий.
 
+#### Классификация
+* **OWASP TOP 10**
+* [A01:2021 — Broken Access Control](https://owasp.org/Top10/2021/A01_2021-Broken_Access_Control/)
+* **CWE**
+* [CWE-639 — Authorization Bypass Through User-Controlled Key](https://cwe.mitre.org/data/definitions/639.html)
+* [CWE-862 — Missing Authorization](https://cwe.mitre.org/data/definitions/862.html)
+* **MITRE ATT&CK**
+* **Tactic** [T1213 — Data from Information Repositories](https://attack.mitre.org/techniques/T1213/)
+
 #### Рекомендации по защите
 * выполнять проверку доступа на серверной стороне;
 * использовать объектную авторизацию;
