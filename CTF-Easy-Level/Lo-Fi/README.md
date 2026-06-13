@@ -55,9 +55,13 @@
 * внутренней структуры системы.
 
 #### Классификация
-[A01:2021 — Broken Access Control](https://owasp.org/Top10/2021/A01_2021-Broken_Access_Control/)
-
-[CWE-22 — Path Traversal](https://cwe.mitre.org/data/definitions/22.html)
+* **OWASP TOP 10**
+* [A01:2021 — Broken Access Control](https://owasp.org/Top10/2021/A01_2021-Broken_Access_Control/)
+* **CWE**
+* [CWE-22 — Path Traversal](https://cwe.mitre.org/data/definitions/22.html)
+* **MITRE ATT&CK**
+* **Tactic** [TA0009 — Collection](https://attack.mitre.org/tactics/TA0009/)
+* **Technique** [T1005 — Data from Local System](https://attack.mitre.org/tactics/TA0009/)
 
 #### Рекомендации по защите
 * Использовать белый список допустимых страниц.
