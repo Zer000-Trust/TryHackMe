@@ -1,2 +1,2 @@
 ## Easy Level
-Прохождение CTF легкого уровня на tryhackme.com
+Прохождение CTF легкого уровня на tryhackme.com.
